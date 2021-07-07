@@ -1,2 +1,2 @@
-# typical-arrays-problems
+# typical-arrays-problems (Samatov Azizbek)
 RSSchool tasks repo
